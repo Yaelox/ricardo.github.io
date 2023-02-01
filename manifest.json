@@ -1,0 +1,32 @@
+{
+    "short_name" : "Beatles",
+    "name" : "The Beatles",
+    "icons":[
+        {
+            "src": "P.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "L.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "A.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "B.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#f9d627",
+    "scoped": "/",
+    "thme_color": "f9d627",
+    "description": "Solo the beatles"
+}
